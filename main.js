@@ -1,16 +1,19 @@
-// Numbers:
-let length = 16;
-let weight = 7.5;
+function sayHi(name, age) {
+  console.log(
+    "Hello " + name + ", you are " + age + " years old, how are you doing ? "
+  );
+}
 
-// Strings:
-let color = "Yellow";
-let lastName = "Johnson";
+function sayBye(name, age) {
+  console.log(
+    "Bye " + name + ", you are " + age + " years old, see you soon !"
+  );
+}
 
-// Booleans
-let isOld = true;
-let isHappy = false;
+const firstName = "Robin";
+const age = 25;
+// sayHi("Robin");
+// sayBye("Robin");
 
-let nothing = null;
-let notDefined = undefined;
-
-// later we will discover other complexe types like array, objects and function...
+sayHi(firstName, age);
+sayBye(firstName, age);
