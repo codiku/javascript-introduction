@@ -1,13 +1,14 @@
 # JavaScript Learning Path
 
-🌟 Table of Contents 🌟
+🌟🌟🌟 Table of Contents 🌟🌟🌟
 
 Getting Started
-- First Steps in JS
-- Understanding JavaScript
-- Workspace Setup
 
-Core Basics
+- First Steps in JS (001-setup-node)
+- Understanding JavaScript (001-setup-node)
+
+🌟 Core Basics
+
 - Working with Variables
 - Understanding Constants
 - Basic Data Types
@@ -18,7 +19,8 @@ Core Basics
 - Function Variations
 - Core Concepts Review
 
-Expression Fundamentals
+🌟Expression Fundamentals
+
 - Understanding Expressions
 - Math Operations
 - Value Assignment
@@ -30,7 +32,8 @@ Expression Fundamentals
 - Operation Priority
 - Expression Overview
 
-Program Flow
+🌟 Program Flow
+
 - Conditional Statements
 - Multiple Condition Handling
 - Iteration Basics
@@ -45,7 +48,8 @@ Program Flow
 - Practice: Number Properties
 - Flow Control Summary
 
-Deep Dive: Objects
+🌟 Deep Dive: Objects
+
 - Object Creation
 - Object Generation
 - Object Building
@@ -62,7 +66,8 @@ Deep Dive: Objects
 - Time Management
 - Object Concepts Review
 
-Deep Dive: Arrays
+🌟 Deep Dive: Arrays
+
 - Array Fundamentals
 - Array Growth
 - Element Discovery (Basic)
@@ -80,7 +85,8 @@ Deep Dive: Arrays
 - Array Transformation
 - Array Calculations
 
-Deep Dive: Functions
+🌟 Deep Dive: Functions
+
 - Function Syntax Variations
 - Code Organization
 - Input Handling
