@@ -1,9 +1,6 @@
-let firstName = "Robin";
-let lastName = "Hood";
-// let fullName = firstName + lastName;
-// let fullName = "Robin" + " " + "Hoody";
-let fullName = firstName + " " + lastName;
-let sentence = "Hello my name is " + fullName;
-let age = 32;
-sentence = sentence + " and I am " + age + " years old";
-console.log(sentence);
+const HALLOWEEN_DATE = "October 31";
+// Notice the user of SNAKE_CASE and uppercase for constants.
+
+console.log("Every year Halloween is on " + HALLOWEEN_DATE);
+
+HALLOWEEN_DATE = "October 30";
