@@ -12,10 +12,7 @@ Getting Started
 - Working with Variables (002-variables)
 - Understanding Constants (003-constant)
 - Basic Data Types (004-data-types)
-- Type Flexibility
-- Working with Objects
-- Understanding Arrays
-- Function Basics
+- Function Basics (005-functions)
 - Function Variations
 - Core Concepts Review
 
@@ -50,6 +47,9 @@ Getting Started
 
 🌟 Deep Dive: Objects
 
+- Type Flexibility
+- Working with Objects
+- Understanding Arrays
 - Object Creation
 - Object Generation
 - Object Building
