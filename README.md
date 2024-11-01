@@ -9,8 +9,8 @@ Getting Started
 
 🌟 Core Basics
 
-- Working with Variables
-- Understanding Constants
+- Working with Variables (002-variables)
+- Understanding Constants (003-constant)
 - Basic Data Types
 - Type Flexibility
 - Working with Objects
