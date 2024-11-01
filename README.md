@@ -11,7 +11,7 @@ Getting Started
 
 - Working with Variables (002-variables)
 - Understanding Constants (003-constant)
-- Basic Data Types
+- Basic Data Types (004-data-types)
 - Type Flexibility
 - Working with Objects
 - Understanding Arrays

@@ -1,6 +1,16 @@
-const HALLOWEEN_DATE = "October 31";
-// Notice the user of SNAKE_CASE and uppercase for constants.
+// Numbers:
+let length = 16;
+let weight = 7.5;
 
-console.log("Every year Halloween is on " + HALLOWEEN_DATE);
+// Strings:
+let color = "Yellow";
+let lastName = "Johnson";
 
-HALLOWEEN_DATE = "October 30";
+// Booleans
+let isOld = true;
+let isHappy = false;
+
+let nothing = null;
+let notDefined = undefined;
+
+// later we will discover other complexe types like array, objects and function...
